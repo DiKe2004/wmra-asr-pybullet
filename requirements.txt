@@ -1,4 +1,0 @@
-pybullet
-numpy
-opencv-python
-faster-whisper
